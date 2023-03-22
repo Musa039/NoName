@@ -1,0 +1,14 @@
+.btn {
+  border: none;
+  border-radius: 0px 5px;
+  color: aliceblue;
+  background-color: darkcyan;
+  padding: 5px;
+}
+.text {
+  background-color: aqua;
+  border: 1px solid;
+  margin: 0 auto;
+  padding: 20px;
+  width: 400px;
+}

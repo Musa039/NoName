@@ -1,0 +1,28 @@
+.parent_container{
+    width: 1000px;
+    height: 800px;
+    background-color: slategray;
+}
+
+.child{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+   }
+
+.child1{
+    margin: 40px 40px 40px 20px;
+    background-color: burlywood;
+}
+
+.child2{
+    background-color: cyan;
+    margin: 20px 80px 20px 40px;
+}
+
+.child3{
+    
+    background-color: chartreuse;
+    margin: 80px 80px 80px 80px;
+}
+    

@@ -1,0 +1,37 @@
+.parent_container{
+    width: 800px;
+    height: 800px;
+}
+
+.child{
+    width: 100px;
+    height: 100px;  
+}
+
+.child1{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child2{
+    background-color: lime;
+    position: relative;
+}
+
+.child3{
+    background-color: chocolate;
+    position: relative;
+}
+
+.ikinci{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.ucuncu{
+    position: absolute;
+    bottom: 0;
+}
